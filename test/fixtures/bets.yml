@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  player1_id: 1
+  player2_id: 1
+  bet_description: MyString
+  bet_status: MyString
+  player1_penalty: MyString
+  player2_penalty: MyString
+
+two:
+  player1_id: 1
+  player2_id: 1
+  bet_description: MyString
+  bet_status: MyString
+  player1_penalty: MyString
+  player2_penalty: MyString
